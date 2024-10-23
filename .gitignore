@@ -15,7 +15,6 @@
 # vendor/
 
 *.DS_Store
-.idea
 *.zip
 *.tar.gz
 v2ray
@@ -30,4 +29,4 @@ build/
 *~
 [._]*.un~
 
-lab/
+lab/*_linux
